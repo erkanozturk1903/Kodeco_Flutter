@@ -53,7 +53,6 @@ class _YummyState extends State<Yummy> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: appTitle,
-      //debugShowCheckedModeBanner: false, // Uncomment to remove Debug banner
 
       // TODO: Add theme
       themeMode: themeMode,
